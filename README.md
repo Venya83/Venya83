@@ -1,6 +1,7 @@
 ![Venya's GitHub stats](https://github-readme-stats.vercel.app/api?username=venya83&theme=radical_icons=true)
 
 На аккаунте запрещено:
+
 *использование читов, распрыжек, скриптов и прочих хитростей;
 
 *использование спреев-обманок и спреев с эротическим содержанием;
